@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "username": "sam",
+      "password": "sam",
+      "email": "soaif@gmail.com",
+      "phone": "990987",
+      "adhar": "987989",
+      "id": "zGJexF_vHXA"
+    },
+    {
+      "username": "shashi",
+      "password": "12345",
+      "email": "shashi@gmail.com",
+      "phone": "9372983279",
+      "adhar": "235029090055",
+      "id": "TUZQdp6h1dA"
+    },
+    {
+      "username": "shanu",
+      "password": "2934793287",
+      "email": "shanu@gmail.com",
+      "phone": "12932497987",
+      "adhar": "9799880889",
+      "id": "6pMDTA1bAOw"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
